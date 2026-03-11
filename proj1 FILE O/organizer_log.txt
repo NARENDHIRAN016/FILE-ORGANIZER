@@ -1,0 +1,36 @@
+2025-06-26 23:08:45,105 — INFO — Created folder: E:\INFOTACT SOLUTION\Images
+2025-06-26 23:08:45,105 — INFO — Moved available.jpg to Images
+2025-06-26 23:08:45,107 — INFO — Created folder: E:\INFOTACT SOLUTION\Documents
+2025-06-26 23:08:45,107 — INFO — Moved File_Organizer_Project_Report.docx to Documents
+2025-06-26 23:08:45,108 — INFO — Moved File_Organizer_Project_Report.pdf to Documents
+2025-06-26 23:08:45,108 — INFO — Created folder: E:\INFOTACT SOLUTION\Videos
+2025-06-26 23:08:45,109 — INFO — Moved Learn MongoDB in 1 Hour \U0001f343(1080P_60FPS).mp4 to Videos
+2025-06-26 23:08:45,139 — INFO — Moved Linux commands for Cloud and Devops engineers(720P_60FPS).mp4 to Videos
+2025-06-26 23:08:45,140 — INFO — Created folder: E:\INFOTACT SOLUTION\Scripts
+2025-06-26 23:08:45,140 — INFO — Moved main.py to Scripts
+2025-06-26 23:08:45,141 — INFO — Created folder: E:\INFOTACT SOLUTION\Audio
+2025-06-26 23:08:45,141 — INFO — Moved mixkit-arcade-retro-game-over-213.wav to Audio
+2025-06-26 23:08:45,141 — INFO — Moved mixkit-fast-rocket-whoosh-1714.wav to Audio
+2025-06-26 23:08:45,142 — INFO — Moved movies1.jpg to Images
+2025-06-26 23:08:45,142 — INFO — Moved sample.txt to Documents
+2025-06-26 23:08:45,144 — INFO — Moved spiderman.jpeg to Images
+2025-06-26 23:08:45,144 — INFO — Moved test_report.xlsx to Documents
+2025-06-26 23:08:45,145 — INFO — Moved tickets.jpeg to Images
+2025-06-26 23:13:18,960 — INFO — Created folder: E:\INFOTACT SOLUTION\Images
+2025-06-26 23:13:18,961 — INFO — Moved available.jpg to Images
+2025-06-26 23:13:18,962 — INFO — Created folder: E:\INFOTACT SOLUTION\Documents
+2025-06-26 23:13:18,962 — INFO — Moved File_Organizer_Project_Report.docx to Documents
+2025-06-26 23:13:18,962 — INFO — Moved File_Organizer_Project_Report.pdf to Documents
+2025-06-26 23:13:18,963 — INFO — Created folder: E:\INFOTACT SOLUTION\Videos
+2025-06-26 23:13:18,963 — INFO — Moved Learn MongoDB in 1 Hour \U0001f343(1080P_60FPS).mp4 to Videos
+2025-06-26 23:13:18,987 — INFO — Moved Linux commands for Cloud and Devops engineers(720P_60FPS).mp4 to Videos
+2025-06-26 23:13:18,989 — INFO — Created folder: E:\INFOTACT SOLUTION\Scripts
+2025-06-26 23:13:18,989 — INFO — Moved main.py to Scripts
+2025-06-26 23:13:18,989 — INFO — Created folder: E:\INFOTACT SOLUTION\Audio
+2025-06-26 23:13:18,990 — INFO — Moved mixkit-arcade-retro-game-over-213.wav to Audio
+2025-06-26 23:13:18,990 — INFO — Moved mixkit-fast-rocket-whoosh-1714.wav to Audio
+2025-06-26 23:13:18,990 — INFO — Moved movies1.jpg to Images
+2025-06-26 23:13:18,991 — INFO — Moved sample.txt to Documents
+2025-06-26 23:13:18,991 — INFO — Moved spiderman.jpeg to Images
+2025-06-26 23:13:18,991 — INFO — Moved test_report.xlsx to Documents
+2025-06-26 23:13:18,992 — INFO — Moved tickets.jpeg to Images
